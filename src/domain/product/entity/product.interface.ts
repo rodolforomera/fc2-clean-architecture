@@ -5,5 +5,4 @@ export default interface ProductInterface {
     
     changeName(name: string): void;
     changePrice(price: number): void;
-    validate(): void;
 }
